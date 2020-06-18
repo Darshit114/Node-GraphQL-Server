@@ -1,0 +1,24 @@
+{
+  "name": "node-graphql-server",
+  "version": "1.0.0",
+  "description": "Simple GraphQL server using node.js and Express which demonstartes how to use GraphQL on the client side to send queries and mutations to the server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darshit114/Node-GraphQL-Server.git"
+  },
+  "author": "Darshit Shekhada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darshit114/Node-GraphQL-Server/issues"
+  },
+  "homepage": "https://github.com/Darshit114/Node-GraphQL-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.1.0"
+  }
+}
